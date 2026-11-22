@@ -1,0 +1,6 @@
+{
+  "name": "Operação Agente PCPE — Cronograma & Gamificação",
+  "description": "Plataforma interativa de cronograma de estudos, edital verticalizado, desafios diários e gamificação para o cargo de Agente de Polícia (PCPE).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
